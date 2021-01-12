@@ -32,13 +32,13 @@ Kotlin is OSS language licensed under Apache 2 OSS License.
 
 ISBN: 9788692030710
 
-Available in formats:
+Book is available in formats:
 
 - Amazon Kindle
 - EPUB
 - Mobi
 
-Available in the following stores:
+Book is available in the following stores:
 
 - [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B07G4DLKBC)
 - [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771)
