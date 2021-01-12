@@ -38,16 +38,16 @@ Available in formats:
 - EPUB
 - Mobi
 
-Available in stores:
+Available in the following stores:
 
-- Amazon Kindle
-- Apple iBooks
-- Nook
-- Kobo
-- Scribd
-- Lulu.com
-- Smashwords
-- Inktera
+- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B07G4DLKBC)
+- [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771)
+- [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710)
+- [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin)
+- [Scribd](https://www.scribd.com/book/385338804/Fundamental-Kotlin-Second-Edition)
+- [Lulu.com](http://www.lulu.com/shop/milo%C5%A1-vasi%C4%87/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin/ebook/product-23732495.html)
+- [Smashwords](https://www.smashwords.com/books/view/885596)
+- [Inktera](https://www.smashwords.com/books/byseries/35624)
 
 and many others.
 
