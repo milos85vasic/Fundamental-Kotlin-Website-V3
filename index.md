@@ -63,7 +63,7 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/) project.
 
 # About the Author
 
-Miloš Vasić is a software engineer from Belgrade, Serbia. He is passionate about software development and ways to make it better. When Miloš is not on regular projects, he is spending time learning and investigating new technologies.
+[Miloš Vasić](https://github.com/milos85vasic) is a software engineer from Belgrade, Serbia. He is passionate about software development and ways to make it better. When Miloš is not on regular projects, he is spending time learning and investigating new technologies.
 
 # Misc
 
