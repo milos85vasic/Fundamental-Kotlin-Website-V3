@@ -1,2 +1,3 @@
-# Fundamental-Kotlin-Website-V3
+# Fundamental Kotlin Website
+
 Website for the book Fundamental Kotlin
