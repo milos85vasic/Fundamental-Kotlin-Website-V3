@@ -1,6 +1,6 @@
 ![](images/cover.png)
 
-Fundamental Kotlin is book dedicated to [Kotlin](https://kotlinlang.org/) programming language.
+Book dedicated to [Kotlin](https://kotlinlang.org/) programming language.
 
 ## What is Kotlin?
 
