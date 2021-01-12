@@ -1,6 +1,6 @@
 ![](images/cover.png)
 
-# [BUY NOW](todo link)
+# [BUY NOW](https://www.smashwords.com/books/byseries/35624)
 
 *Once payment has been received ebook will be emailed to buyer's email address within 48 hours.
 Email message containing eBook file will be emailed to email address used in your payment.*
