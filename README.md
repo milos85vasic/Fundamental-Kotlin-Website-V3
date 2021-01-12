@@ -1,6 +1,6 @@
 # Fundamental Kotlin Website
 
-Website for the book Fundamental Kotlin
+GitHub pages website for the book [Fundamental Kotlin](https://www.fundamental-kotlin.com/).
 
 ## Access to website source code
 
