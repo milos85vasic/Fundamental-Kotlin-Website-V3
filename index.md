@@ -1,6 +1,6 @@
 ![](images/cover.png)
 
-# [BUY NOW](https://www.smashwords.com/books/byseries/35624)
+# [BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE)
 
 *Once payment has been received, eBook will be emailed to buyer's email address within 48 hours.
 Email message containing eBook files (all available eBook formats) will be emailed to email address used in your payment.*
