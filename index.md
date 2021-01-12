@@ -48,8 +48,18 @@ Available in stores:
 
 and many others.
 
+## Table of Contents
+
 Complete table of contents with sample chapters in PDF format can be found 
 [HERE](pages/contents.md).
+
+## Code Examples
+
+All code examples from the book can be downloaded [HERE](https://github.com/milos85vasic/Fundamental-Kotlin/releases/tag/second_edition_rev_1). 
+Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/) project.
+
+*Note:* To be able to run project with book code examples please follow 
+[official IntelliJ Idea Kotlin setup guide](https://kotlinlang.org/docs/tutorials/getting-started.html).
 
 # About the Author
 
