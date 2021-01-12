@@ -25,6 +25,29 @@ Kotlin’s benefits over Java are:
 
 Kotlin is OSS language licensed under Apache 2 OSS License.
 
+# About the book
+
+ISBN: 9788692030710
+
+Available in formats:
+
+- Amazon Kindle
+- EPUB
+- Mobi
+
+Available in stores:
+
+- Amazon Kindle
+- Apple iBooks
+- Nook
+- Kobo
+- Scribd
+- Lulu.com
+- Smashwords
+- Inktera
+
+and many others.
+
 # About the Author
 
 Miloš Vasić is a software engineer from Belgrade, Serbia. He is passionate about software development and ways to make it better. When Miloš is not on regular projects, he is spending time learning and investigating new technologies.
