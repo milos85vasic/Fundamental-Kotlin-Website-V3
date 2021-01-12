@@ -1,0 +1,3 @@
+# Refunding Fundamental Kotlin eBook
+
+You may not refund an eBook since all eBooks are delivered to email addresses provided during purchase process. Once eBook is delivered to your mail address it is not possible to revert back the process since you own your digital copy.
