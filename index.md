@@ -55,3 +55,9 @@ Complete table of contents with sample chapters in PDF format can be found
 
 Miloš Vasić is a software engineer from Belgrade, Serbia. He is passionate about software development and ways to make it better. When Miloš is not on regular projects, he is spending time learning and investigating new technologies.
 
+# Misc
+
+- [Terms and Conditions](pages/terms.md) 
+- [Privacy Policy](pages/privacy.md)
+- [Refund Policy](pages/refund.md) 
+
