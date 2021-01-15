@@ -72,6 +72,18 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 
 You can contact author of the book [HERE](mailto:milos85vasic@gmail.com){:target="_blank"}.
 
+# Follow fundamental Kotlin book
+
+You can follow Fundamental Kotlin on the following social networks:
+
+- [Facebook](https://www.facebook.com/fundamental.kotlin/){:target="_blank"}
+- [Twitter](https://twitter.com/fund_kotlin){:target="_blank"}
+- [Tumblr](https://fundamentalkotlin.tumblr.com/){:target="_blank"}
+- [Instagram](https://www.instagram.com/fundamentalkotlin/){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/milo%C5%A1-vasi%C4%87-53778682/){:target="_blank"}
+- [Xing](https://www.xing.com/profile/Milos_Vasic4/cv){:target="_blank"}
+- [Goodreads](https://www.goodreads.com/book/show/41028734-fundamental-kotlin){:target="_blank"}
+
 # Misc
 
 - [Terms and Conditions](pages/terms.md){:target="_blank"}
