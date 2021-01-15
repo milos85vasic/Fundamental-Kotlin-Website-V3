@@ -1,6 +1,6 @@
 ![](images/cover.png)
 
-# [BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE)
+# [BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank"}
 
 *Once payment has been received, eBook will be emailed to buyer's email address within 48 hours.
 Email message containing eBook files (all available eBook formats) will be emailed to email address used in your payment.*
@@ -40,14 +40,14 @@ Book is available in formats:
 
 Book is available in the following stores:
 
-- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B07G4DLKBC)
-- [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771)
-- [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710)
-- [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin)
-- [Scribd](https://www.scribd.com/book/385338804/Fundamental-Kotlin-Second-Edition)
-- [Lulu.com](http://www.lulu.com/shop/milo%C5%A1-vasi%C4%87/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin/ebook/product-23732495.html)
-- [Smashwords](https://www.smashwords.com/books/view/885596)
-- [Inktera](https://www.smashwords.com/books/byseries/35624)
+- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B07G4DLKBC){:target="_blank"}
+- [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771){:target="_blank"}
+- [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710){:target="_blank"}
+- [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin){:target="_blank"}
+- [Scribd](https://www.scribd.com/book/385338804/Fundamental-Kotlin-Second-Edition){:target="_blank"}
+- [Lulu.com](http://www.lulu.com/shop/milo%C5%A1-vasi%C4%87/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin/ebook/product-23732495.html){:target="_blank"}
+- [Smashwords](https://www.smashwords.com/books/view/885596){:target="_blank"}
+- [Inktera](https://www.smashwords.com/books/byseries/35624){:target="_blank"}
 
 and many others.
 
@@ -58,23 +58,23 @@ Complete table of contents with sample chapters in PDF format can be found
 
 ## Code Examples
 
-All code examples from the book can be downloaded [HERE](https://github.com/milos85vasic/Fundamental-Kotlin/releases/tag/second_edition_rev_1). 
-Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/) project.
+All code examples from the book can be downloaded [HERE](https://github.com/milos85vasic/Fundamental-Kotlin/releases/tag/second_edition_rev_1){:target="_blank"}. 
+Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target="_blank"} project.
 
 *Note:* To be able to run project with book code examples please follow 
-[official IntelliJ Idea Kotlin setup guide](https://kotlinlang.org/docs/tutorials/getting-started.html).
+[official IntelliJ Idea Kotlin setup guide](https://kotlinlang.org/docs/tutorials/getting-started.html){:target="_blank"}.
 
 # About the Author
 
-[Miloš Vasić](https://github.com/milos85vasic) is a software engineer from Belgrade, Serbia. He is passionate about software development and ways to make it better. When Miloš is not on regular projects, he is spending time learning and investigating new technologies.
+[Miloš Vasić](https://github.com/milos85vasic){:target="_blank"} is a software engineer from Belgrade, Serbia. He is passionate about software development and ways to make it better. When Miloš is not on regular projects, he is spending time learning and investigating new technologies.
 
 ## Contact author
 
-You can contact author of the book [HERE](mailto:milos85vasic@gmail.com)
+You can contact author of the book [HERE](mailto:milos85vasic@gmail.com){:target="_blank"}.
 
 # Misc
 
-- [Terms and Conditions](pages/terms.md) 
-- [Privacy Policy](pages/privacy.md)
-- [Refund Policy](pages/refund.md) 
+- [Terms and Conditions](pages/terms.md){:target="_blank"}
+- [Privacy Policy](pages/privacy.md){:target="_blank"}
+- [Refund Policy](pages/refund.md){:target="_blank"}
 
