@@ -40,7 +40,7 @@ Book is available in formats:
 
 Book is available in the following stores:
 
-- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B07G4DLKBC){:target="_blank"}
+- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B08KY8885H/ref=sr_1_6?dchild=1&keywords=fundamental+kotlin&qid=1610749738&sr=8-6){:target="_blank"}
 - [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771){:target="_blank"}
 - [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710){:target="_blank"}
 - [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin){:target="_blank"}
