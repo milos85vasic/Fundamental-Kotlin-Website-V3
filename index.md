@@ -105,5 +105,5 @@ You can follow Fundamental Kotlin on the following social networks:
 - [Privacy Policy](pages/privacy.md){:target="_blank"}
 - [Refund Policy](pages/refund.md){:target="_blank"}
 
-# &nbsp; [^ &nbsp; BACK TO TOP](#content)
+[^ &nbsp; BACK TO TOP](#content)
 
