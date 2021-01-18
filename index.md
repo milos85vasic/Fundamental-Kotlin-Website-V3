@@ -1,3 +1,9 @@
+[BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank") | 
+[What is Kotlin?](#what-is-kotlin) | [About the book](#about-the-book) | [Code Examples](#code-examples) |
+[About the Author](#about-the-author) | [Contact](#contact-author)
+
+
+
 ![](images/cover.png)
 
 # [BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank"}
@@ -5,7 +11,20 @@
 *Once payment has been received, eBook will be emailed to buyer's email address within 48 hours.
 Email message containing eBook files (all available eBook formats) will be emailed to email address used in your payment.*
 
-## What is Kotlin?
+Book is also available in the following stores:
+
+- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B08KY8885H/ref=sr_1_6?dchild=1&keywords=fundamental+kotlin&qid=1610749738&sr=8-6){:target="_blank"}
+- [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771){:target="_blank"}
+- [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710){:target="_blank"}
+- [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin){:target="_blank"}
+- [Scribd](https://www.scribd.com/book/385338804/Fundamental-Kotlin-Second-Edition){:target="_blank"}
+- [Lulu.com](http://www.lulu.com/shop/milo%C5%A1-vasi%C4%87/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin/ebook/product-23732495.html){:target="_blank"}
+- [Smashwords](https://www.smashwords.com/books/view/885596){:target="_blank"}
+- [Inktera](https://www.smashwords.com/books/byseries/35624){:target="_blank"}
+
+and many others.
+
+# What is Kotlin?
 
 Kotlin is new programming language running on Java Virtual Machine, Android or browser. It is statically typed language and it can be compiled to JavaScript source code (running on browsers).
 
@@ -37,19 +56,6 @@ Book is available in formats:
 - Amazon Kindle
 - EPUB
 - Mobi
-
-Book is available in the following stores:
-
-- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B08KY8885H/ref=sr_1_6?dchild=1&keywords=fundamental+kotlin&qid=1610749738&sr=8-6){:target="_blank"}
-- [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771){:target="_blank"}
-- [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710){:target="_blank"}
-- [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin){:target="_blank"}
-- [Scribd](https://www.scribd.com/book/385338804/Fundamental-Kotlin-Second-Edition){:target="_blank"}
-- [Lulu.com](http://www.lulu.com/shop/milo%C5%A1-vasi%C4%87/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin/ebook/product-23732495.html){:target="_blank"}
-- [Smashwords](https://www.smashwords.com/books/view/885596){:target="_blank"}
-- [Inktera](https://www.smashwords.com/books/byseries/35624){:target="_blank"}
-
-and many others.
 
 ## Table of Contents
 
