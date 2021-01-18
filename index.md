@@ -1,6 +1,8 @@
 [BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank"} · 
-[What is Kotlin?](#what-is-kotlin) · [About the book](#about-the-book) · [Code Examples](#code-examples) ·
-[Table of Contents](#table-of-contents) · [About the Author](#about-the-author) · [Contact](#contact-author)
+[What is Kotlin?](#what-is-kotlin) · [About the book](#about-the-book) ·
+[Table of Contents](#table-of-contents) · [Code Examples](#code-examples) ·
+[Sample chapters](#sample-chapters) · [About the Author](#about-the-author) · 
+[Contact](#contact-author)
 
 ![](images/cover.png)
 
@@ -68,7 +70,12 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 *Note:* To be able to run project with book code examples please follow 
 [official IntelliJ Idea Kotlin setup guide](https://kotlinlang.org/docs/tutorials/getting-started.html){:target="_blank"}.
 
-# About the Author
+## Sample Chapters
+
+- [About Fundamental Series](pdfs/sec_ed_about_fundamental_series.pdf)
+- 
+
+## About the Author
 
 [Miloš Vasić](https://github.com/milos85vasic){:target="_blank"} is a software engineer from Belgrade, Serbia. He is passionate about software development and ways to make it better. When Miloš is not on regular projects, he is spending time learning and investigating new technologies.
 
