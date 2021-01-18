@@ -1,4 +1,4 @@
-[BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank") | 
+[BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE) | 
 [What is Kotlin?](#what-is-kotlin) | [About the book](#about-the-book) | [Code Examples](#code-examples) |
 [Table of Contents](#table-of-contents) | [About the Author](#about-the-author) | [Contact](#contact-author)
 
