@@ -1,6 +1,6 @@
 [BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank"} · 
 [What is Kotlin?](#what-is-kotlin) · [About the book](#about-the-book) ·
-[Table of Contents](#table-of-contents) · [Code Examples](#code-examples) ·
+[Table of Contents](pages/contents.md){:target="_blank"} · [Code Examples](#code-examples) ·
 [Sample chapters](#sample-chapters) · [About the Author](#about-the-author) · 
 [Contact](#contact-author)
 
