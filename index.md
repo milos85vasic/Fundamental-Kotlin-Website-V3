@@ -91,7 +91,8 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 
 ## Contact author
 
-You can contact author of the book [HERE](mailto:milos85vasic@gmail.com){:target="_blank"}.
+You can contact author of the book via [email](mailto:i@mvasic.ru){:target="_blank"},
+[LinkedIn](https://www.linkedin.com/in/miloš-vasić-53778682/){:target="_blank"} or [GitHub](https://github.com/milos85vasic){:target="_blank"}.
 
 # Follow fundamental Kotlin book
 
