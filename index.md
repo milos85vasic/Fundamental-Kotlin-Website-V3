@@ -31,7 +31,7 @@ and many others.
 
 # What is Kotlin?
 
-Kotlin is new programming language running on Java Virtual Machine, Android or browser. It is statically typed language and it can be compiled to JavaScript source code (running on browsers).
+Kotlin is programming language running on Java Virtual Machine, Android, browser or native. It is statically typed language and it can be compiled to JavaScript source code (running on browsers).
 
 Kotlin is:
 
@@ -54,10 +54,11 @@ Kotlin is OSS language licensed under Apache 2 OSS License.
 
 # About the book
 
-ISBN: 9788692030710
+ISBN: 978-86-920307-2-7
 
 Book is available in formats:
 
+- PDF *(only if ordered directly from this website, see the 'Buy Now' button at the top)*
 - Amazon Kindle
 - EPUB
 - Mobi
