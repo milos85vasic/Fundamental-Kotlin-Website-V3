@@ -98,11 +98,9 @@ You can contact author of the book via [email](mailto:i@mvasic.ru){:target="_bla
 
 You can follow Fundamental Kotlin on the following social networks:
 
-- [Facebook](https://www.facebook.com/fundamental.kotlin/){:target="_blank"}
-- [Twitter](https://twitter.com/fund_kotlin){:target="_blank"}
+- [VK](https://vk.com/milos.vasic){:target="_blank"}
 - [Tumblr](https://fundamentalkotlin.tumblr.com/){:target="_blank"}
-- [Instagram](https://www.instagram.com/fundamentalkotlin/){:target="_blank"}
-- [LinkedIn](https://www.linkedin.com/company/fundamental-kotlin){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/miloš-vasić-53778682/){:target="_blank"}
 - [Xing](https://www.xing.com/profile/Milos_Vasic4/cv){:target="_blank"}
 - [Goodreads](https://www.goodreads.com/book/show/41028734-fundamental-kotlin){:target="_blank"}
 
