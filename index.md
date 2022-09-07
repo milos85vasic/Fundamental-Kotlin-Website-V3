@@ -68,7 +68,7 @@ Complete table of contents with sample chapters in PDF format can be found
 
 ## Code Examples
 
-All code examples from the book can be downloaded [HERE](https://github.com/milos85vasic/Fundamental-Kotlin/releases/tag/second_edition_rev_1){:target="_blank"}. 
+All code examples from the book can be downloaded [HERE](https://github.com/milos85vasic/Fundamental-Kotlin/releases/tag/third_edition){:target="_blank"}. 
 Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target="_blank"} project.
 
 *Note:* To be able to run project with book code examples please follow 
