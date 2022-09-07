@@ -78,8 +78,7 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 
 - [About Fundamental Series](pdfs/about_fundamental_series.pdf){:target="_blank"}
 - [What is Kotlin?](pdfs/what_is_kotlin.pdf){:target="_blank"}
-- [Basic characteristics](pdfs/basic_characteristics.pdf){:target="_blank"}
-- [Hello from Kotlin!](pdfs/hello_from_kotlin.pdf){:target="_blank"}
+- [Intro](pdfs/intro.pdf){:target="_blank"}
 - [Inheritance](pdfs/inheritance.pdf){:target="_blank"}
 - [Interfaces](pdfs/interfaces.pdf){:target="_blank"}
 
