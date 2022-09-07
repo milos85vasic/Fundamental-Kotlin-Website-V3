@@ -23,7 +23,7 @@ Book is also available in the following stores:
 - [Nook](https://www.barnesandnoble.com/){:target="_blank"}
 - [Kobo](https://www.kobo.com/){:target="_blank"}
 - [Scribd](https://www.scribd.com/){:target="_blank"}
-- [Lulu.com](http://www.lulu.com/){:target="_blank"}
+- [Lulu.com](https://www.lulu.com/shop/miloš-vasić/fundamental-kotlin-revised/ebook/product-7mpmyn.html?q=kotlin&page=1&pageSize=4){:target="_blank"}
 
 and many others.
 
