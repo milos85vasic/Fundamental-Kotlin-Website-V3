@@ -76,12 +76,12 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 
 ## Sample Chapters
 
-- [About Fundamental Series](pdfs/sec_ed_about_fundamental_series.pdf){:target="_blank"}
-- [What is Kotlin?](pdfs/sec_ed_what_is_kotlin.pdf){:target="_blank"}
-- [Basic characteristics](pdfs/sec_ed_basic_characteristics.pdf){:target="_blank"}
-- [Hello from Kotlin!](pdfs/sec_ed_hello_from_kotlin.pdf){:target="_blank"}
-- [Inheritance](pdfs/sec_ed_inheritance.pdf){:target="_blank"}
-- [Interfaces](pdfs/sec_ed_interfaces.pdf){:target="_blank"}
+- [About Fundamental Series](pdfs/about_fundamental_series.pdf){:target="_blank"}
+- [What is Kotlin?](pdfs/what_is_kotlin.pdf){:target="_blank"}
+- [Basic characteristics](pdfs/basic_characteristics.pdf){:target="_blank"}
+- [Hello from Kotlin!](pdfs/hello_from_kotlin.pdf){:target="_blank"}
+- [Inheritance](pdfs/inheritance.pdf){:target="_blank"}
+- [Interfaces](pdfs/interfaces.pdf){:target="_blank"}
 
 ## About the Author
 
