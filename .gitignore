@@ -8,3 +8,5 @@
 /httpRequests/
 .idea
 .idea/*
+Gemfile.lock
+_site

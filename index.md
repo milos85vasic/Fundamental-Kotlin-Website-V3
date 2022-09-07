@@ -1,32 +1,35 @@
-[BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank"} · 
+[BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JF55FTMW3W3AL){:target="_blank"} · 
 [What is Kotlin?](#what-is-kotlin) · [About the book](#about-the-book) ·
-[Table of Contents](pages/contents.md){:target="_blank"} · [Code Examples](#code-examples) ·
+[Table of Contents](pdfs/contents.pdf){:target="_blank"} · [Code Examples](#code-examples) ·
 [Sample chapters](#sample-chapters) · [About the Author](#about-the-author) · 
 [Contact](#contact-author)
 
 ![](images/cover.png)
 
-# [BUY NOW](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WF2LT4YG7ERZE){:target="_blank"}
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="JF55FTMW3W3AL">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
 
 *Once payment has been received, eBook will be emailed to buyer's email address within 48 hours.
 Email message containing eBook files (all available eBook formats) will be emailed to email address used in your payment.*
 
 Book is also available in the following stores:
 
-- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B08KY8885H/ref=sr_1_6?dchild=1&keywords=fundamental+kotlin&qid=1610749738&sr=8-6){:target="_blank"}
-- [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771){:target="_blank"}
-- [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710){:target="_blank"}
-- [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin){:target="_blank"}
-- [Scribd](https://www.scribd.com/book/385338804/Fundamental-Kotlin-Second-Edition){:target="_blank"}
-- [Lulu.com](http://www.lulu.com/shop/milo%C5%A1-vasi%C4%87/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin/ebook/product-23732495.html){:target="_blank"}
-- [Smashwords](https://www.smashwords.com/books/view/885596){:target="_blank"}
-- [Inktera](https://www.smashwords.com/books/byseries/35624){:target="_blank"}
+- [Amazon Kindle](https://www.amazon.com/){:target="_blank"}
+- [Apple iBooks](https://itunes.apple.com/){:target="_blank"}
+- [Nook](https://www.barnesandnoble.com/){:target="_blank"}
+- [Kobo](https://www.kobo.com/){:target="_blank"}
+- [Scribd](https://www.scribd.com/){:target="_blank"}
+- [Lulu.com](https://www.lulu.com/shop/miloš-vasić/fundamental-kotlin-revised/ebook/product-7mpmyn.html?q=kotlin&page=1&pageSize=4){:target="_blank"}
 
 and many others.
 
 # What is Kotlin?
 
-Kotlin is new programming language running on Java Virtual Machine, Android or browser. It is statically typed language and it can be compiled to JavaScript source code (running on browsers).
+Kotlin is programming language running on Java Virtual Machine, Android, browser or native. It is statically typed language and it can be compiled to JavaScript source code (running on browsers).
 
 Kotlin is:
 
@@ -49,10 +52,11 @@ Kotlin is OSS language licensed under Apache 2 OSS License.
 
 # About the book
 
-ISBN: 9788692030710
+ISBN: 978-86-920307-2-7
 
 Book is available in formats:
 
+- PDF *(only if ordered directly from this website, see the 'Buy Now' button at the top)*
 - Amazon Kindle
 - EPUB
 - Mobi
@@ -60,11 +64,11 @@ Book is available in formats:
 ## Table of Contents
 
 Complete table of contents with sample chapters in PDF format can be found 
-[HERE](pages/contents.md).
+[HERE](pdfs/contents.pdf).
 
 ## Code Examples
 
-All code examples from the book can be downloaded [HERE](https://github.com/milos85vasic/Fundamental-Kotlin/releases/tag/second_edition_rev_1){:target="_blank"}. 
+All code examples from the book can be downloaded [HERE](https://github.com/milos85vasic/Fundamental-Kotlin/releases/tag/third_edition){:target="_blank"}. 
 Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target="_blank"} project.
 
 *Note:* To be able to run project with book code examples please follow 
@@ -72,12 +76,11 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 
 ## Sample Chapters
 
-- [About Fundamental Series](pdfs/sec_ed_about_fundamental_series.pdf){:target="_blank"}
-- [What is Kotlin?](pdfs/sec_ed_what_is_kotlin.pdf){:target="_blank"}
-- [Basic characteristics](pdfs/sec_ed_basic_characteristics.pdf){:target="_blank"}
-- [Hello from Kotlin!](pdfs/sec_ed_hello_from_kotlin.pdf){:target="_blank"}
-- [Inheritance](pdfs/sec_ed_inheritance.pdf){:target="_blank"}
-- [Interfaces](pdfs/sec_ed_interfaces.pdf){:target="_blank"}
+- [About Fundamental Series](pdfs/about_fundamental_series.pdf){:target="_blank"}
+- [What is Kotlin?](pdfs/what_is_kotlin.pdf){:target="_blank"}
+- [Intro](pdfs/intro.pdf){:target="_blank"}
+- [Inheritance](pdfs/inheritance.pdf){:target="_blank"}
+- [Interfaces](pdfs/interfaces.pdf){:target="_blank"}
 
 ## About the Author
 
@@ -85,17 +88,16 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 
 ## Contact author
 
-You can contact author of the book [HERE](mailto:milos85vasic@gmail.com){:target="_blank"}.
+You can contact author of the book via [email](mailto:i@mvasic.ru){:target="_blank"},
+[LinkedIn](https://www.linkedin.com/in/miloš-vasić-53778682/){:target="_blank"} or [GitHub](https://github.com/milos85vasic){:target="_blank"}.
 
 # Follow fundamental Kotlin book
 
 You can follow Fundamental Kotlin on the following social networks:
 
-- [Facebook](https://www.facebook.com/fundamental.kotlin/){:target="_blank"}
-- [Twitter](https://twitter.com/fund_kotlin){:target="_blank"}
+- [VK](https://vk.com/milos.vasic){:target="_blank"}
 - [Tumblr](https://fundamentalkotlin.tumblr.com/){:target="_blank"}
-- [Instagram](https://www.instagram.com/fundamentalkotlin/){:target="_blank"}
-- [LinkedIn](https://www.linkedin.com/company/fundamental-kotlin){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/miloš-vasić-53778682/){:target="_blank"}
 - [Xing](https://www.xing.com/profile/Milos_Vasic4/cv){:target="_blank"}
 - [Goodreads](https://www.goodreads.com/book/show/41028734-fundamental-kotlin){:target="_blank"}
 
