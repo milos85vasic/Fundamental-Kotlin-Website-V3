@@ -18,14 +18,12 @@ Email message containing eBook files (all available eBook formats) will be email
 
 Book is also available in the following stores:
 
-- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-2nd-Everything-About-ebook/dp/B08KY8885H/ref=sr_1_6?dchild=1&keywords=fundamental+kotlin&qid=1610749738&sr=8-6){:target="_blank"}
-- [Apple iBooks](https://itunes.apple.com/us/book/fundamental-kotlin-2nd-edition/id1416931771){:target="_blank"}
-- [Nook](https://www.barnesandnoble.com/w/fundamental-kotlin-2nd-edition-milos-vasic/1129181809?ean=9788692030710){:target="_blank"}
-- [Kobo](https://www.kobo.com/ww/en/ebook/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin){:target="_blank"}
-- [Scribd](https://www.scribd.com/book/385338804/Fundamental-Kotlin-Second-Edition){:target="_blank"}
-- [Lulu.com](http://www.lulu.com/shop/milo%C5%A1-vasi%C4%87/fundamental-kotlin-2nd-edition-everything-you-need-to-know-about-kotlin/ebook/product-23732495.html){:target="_blank"}
-- [Smashwords](https://www.smashwords.com/books/view/885596){:target="_blank"}
-- [Inktera](https://www.smashwords.com/books/byseries/35624){:target="_blank"}
+- [Amazon Kindle](https://www.amazon.com/){:target="_blank"}
+- [Apple iBooks](https://itunes.apple.com/){:target="_blank"}
+- [Nook](https://www.barnesandnoble.com/){:target="_blank"}
+- [Kobo](https://www.kobo.com/){:target="_blank"}
+- [Scribd](https://www.scribd.com/){:target="_blank"}
+- [Lulu.com](http://www.lulu.com/){:target="_blank"}
 
 and many others.
 
