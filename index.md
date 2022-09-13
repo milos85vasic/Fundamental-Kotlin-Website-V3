@@ -91,9 +91,9 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 You can contact author of the book via [email](mailto:i@mvasic.ru){:target="_blank"},
 [LinkedIn](https://www.linkedin.com/in/miloš-vasić-53778682/){:target="_blank"} or [GitHub](https://github.com/milos85vasic){:target="_blank"}.
 
-# Follow fundamental Kotlin book
+# Follow
 
-You can follow Fundamental Kotlin on the following social networks:
+Follow the author and book on the following social networks:
 
 - [VK](https://vk.com/milos.vasic){:target="_blank"}
 - [Tumblr](https://fundamentalkotlin.tumblr.com/){:target="_blank"}
