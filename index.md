@@ -88,18 +88,16 @@ Extract and open it as [IntelliJ Idea](https://www.jetbrains.com/idea/){:target=
 
 ## Contact author
 
-You can contact author of the book via [email](mailto:i@mvasic.ru){:target="_blank"},
-[LinkedIn](https://www.linkedin.com/in/miloš-vasić-53778682/){:target="_blank"} or [GitHub](https://github.com/milos85vasic){:target="_blank"}.
-
-# Follow
-
-Follow the author and book on the following social networks:
+You can contact author of the book via [email](mailto:i@mvasic.ru){:target="_blank"} or follow the author and book on the following networks:
 
 - [VK](https://vk.com/milos.vasic){:target="_blank"}
 - [Tumblr](https://fundamentalkotlin.tumblr.com/){:target="_blank"}
 - [LinkedIn](https://www.linkedin.com/in/miloš-vasić-53778682/){:target="_blank"}
+- [TenChat](https://tenchat.ru/milosvasic?utm_source=8bffc92b-633c-44c5-8bd7-1d6bfa42e5f0){:target="_blank"}
 - [Xing](https://www.xing.com/profile/Milos_Vasic4/cv){:target="_blank"}
 - [Goodreads](https://www.goodreads.com/book/show/41028734-fundamental-kotlin){:target="_blank"}
+- [GitHub](https://github.com/milos85vasic){:target="_blank"}
+- [GitFlic](https://gitflic.ru/user/milosvasic){:target="_blank"}
 
 # Misc
 
