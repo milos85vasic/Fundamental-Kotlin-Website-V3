@@ -18,7 +18,7 @@ Email message containing eBook files (all available eBook formats) will be email
 
 Book is also available in the following stores:
 
-- [Amazon Kindle](https://www.amazon.com/){:target="_blank"}
+- [Amazon Kindle](https://www.amazon.com/Fundamental-Kotlin-revised-Miloš-Vasić-ebook/dp/B0BFFX8FL4/ref=sr_1_2?crid=20CSI1ITP02MT&keywords=fundamental+kotlin&qid=1663756476&sprefix=fundamental+kotli%2Caps%2C204&sr=8-2){:target="_blank"}
 - [Apple iBooks](https://itunes.apple.com/){:target="_blank"}
 - [Nook](https://www.barnesandnoble.com/){:target="_blank"}
 - [Kobo](https://www.kobo.com/){:target="_blank"}
